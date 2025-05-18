@@ -41,6 +41,14 @@ Este é um cronômetro Pomodoro feito com <strong>HTML</strong>, <strong>CSS</st
 
 ## 🎮 Como Usar
 
-```bash
+```
 git clone https://github.com/seu-usuario/pomodoro-app.git
+
+Abra o arquivo <code>index.html</code> no seu navegador ou utilize a extensão Live Server no vscode.<br>
+
+Escolha um modo (Foco, Curto ou Longo)<br>
+
+Clique em <strong>Começar</strong> e deixe o tempo fluir ⏳<br>
+
+
 
